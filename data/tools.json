@@ -1,0 +1,281 @@
+[
+  {
+    "id": "1",
+    "name": "Cursor",
+    "description": "The AI Code Editor. Built for pair programming with AI.",
+    "url": "https://cursor.sh",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "tags": ["AI", "Code", "Editor"]
+  },
+  {
+    "id": "2",
+    "name": "Vercel",
+    "description": "Develop. Preview. Ship. The best platform for frontend frameworks.",
+    "url": "https://vercel.com",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Hosting", "Deployment", "Next.js"]
+  },
+  {
+    "id": "3",
+    "name": "Supabase",
+    "description": "The Open Source Firebase alternative.",
+    "url": "https://supabase.com",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Database", "Backend", "Auth"]
+  },
+  {
+    "id": "4",
+    "name": "Tailwind CSS",
+    "description": "Rapidly build modern websites without ever leaving your HTML.",
+    "url": "https://tailwindcss.com",
+    "category": "Design & UI",
+    "pricing": "Open Source",
+    "tags": ["CSS", "Framework"]
+  },
+  {
+    "id": "5",
+    "name": "ChatGPT",
+    "description": "AI chatbot that can help with writing, coding, and more.",
+    "url": "https://chat.openai.com",
+    "category": "AI Writing / Content",
+    "pricing": "Freemium",
+    "tags": ["AI", "Chatbot"]
+  },
+  {
+    "id": "6",
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, docs, and project management.",
+    "url": "https://notion.so",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "tags": ["Notes", "Docs", "Project Management"]
+  },
+  {
+    "id": "7",
+    "name": "Linear",
+    "description": "The issue tracking tool you'll actually enjoy using.",
+    "url": "https://linear.app",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "tags": ["Project Management", "Issue Tracking"]
+  },
+  {
+    "id": "8",
+    "name": "Raycast",
+    "description": "Blazingly fast, extendable launcher for Mac.",
+    "url": "https://raycast.com",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "tags": ["Mac", "Launcher", "Productivity"]
+  },
+  {
+    "id": "9",
+    "name": "Obsidian",
+    "description": "A second brain, for you, forever. Markdown-based note-taking.",
+    "url": "https://obsidian.md",
+    "category": "Productivity",
+    "pricing": "Free",
+    "tags": ["Notes", "Markdown", "Knowledge Base"]
+  },
+  {
+    "id": "10",
+    "name": "Cron (Notion Calendar)",
+    "description": "The next-generation calendar for professionals and teams.",
+    "url": "https://cron.com",
+    "category": "Productivity",
+    "pricing": "Free",
+    "tags": ["Calendar", "Time Management"]
+  },
+  {
+    "id": "11",
+    "name": "Webflow",
+    "description": "Build professional websites visually without coding.",
+    "url": "https://webflow.com",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Website Builder", "Design", "CMS"]
+  },
+  {
+    "id": "12",
+    "name": "Bubble",
+    "description": "The best way to build web apps without code.",
+    "url": "https://bubble.io",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Web App", "No-Code", "Database"]
+  },
+  {
+    "id": "13",
+    "name": "Carrd",
+    "description": "Simple, free, fully responsive one-page sites for pretty much anything.",
+    "url": "https://carrd.co",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Landing Page", "Website", "Portfolio"]
+  },
+  {
+    "id": "14",
+    "name": "Framer",
+    "description": "Design and publish your dream site. Zero code, maximum speed.",
+    "url": "https://framer.com",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Website Builder", "Design", "Interactive"]
+  },
+  {
+    "id": "15",
+    "name": "Softr",
+    "description": "Build client portals and internal tools from Airtable or Google Sheets.",
+    "url": "https://softr.io",
+    "category": "No-Code Builders",
+    "pricing": "Freemium",
+    "tags": ["Internal Tools", "Client Portal", "Airtable"]
+  },
+  {
+    "id": "16",
+    "name": "Ahrefs Webmaster Tools",
+    "description": "Improve your website's SEO performance and get more traffic from search.",
+    "url": "https://ahrefs.com/awt",
+    "category": "Marketing & SEO",
+    "pricing": "Free",
+    "tags": ["SEO", "Analytics", "Traffic"]
+  },
+  {
+    "id": "17",
+    "name": "Google Trends",
+    "description": "Analyze the popularity of top search queries in Google Search.",
+    "url": "https://trends.google.com",
+    "category": "Marketing & SEO",
+    "pricing": "Free",
+    "tags": ["Market Research", "Trends", "Analytics"]
+  },
+  {
+    "id": "18",
+    "name": "Buffer",
+    "description": "The most intuitive, affordable, and authentic way to reach more people on social media.",
+    "url": "https://buffer.com",
+    "category": "Marketing & SEO",
+    "pricing": "Freemium",
+    "tags": ["Social Media", "Scheduling", "Marketing"]
+  },
+  {
+    "id": "19",
+    "name": "Typeform",
+    "description": "Create forms and surveys that people enjoy answering.",
+    "url": "https://typeform.com",
+    "category": "Marketing & SEO",
+    "pricing": "Freemium",
+    "tags": ["Forms", "Surveys", "Feedback"]
+  },
+  {
+    "id": "20",
+    "name": "Beehiiv",
+    "description": "The newsletter platform built for growth.",
+    "url": "https://beehiiv.com",
+    "category": "Marketing & SEO",
+    "pricing": "Freemium",
+    "tags": ["Newsletter", "Email Marketing", "Growth"]
+  },
+  {
+    "id": "21",
+    "name": "Figma",
+    "description": "The collaborative interface design tool.",
+    "url": "https://figma.com",
+    "category": "Design & UI",
+    "pricing": "Freemium",
+    "tags": ["Design", "UI/UX", "Prototyping"]
+  },
+  {
+    "id": "22",
+    "name": "Canva",
+    "description": "Free design tool: presentations, video, social media, and more.",
+    "url": "https://canva.com",
+    "category": "Design & UI",
+    "pricing": "Freemium",
+    "tags": ["Graphic Design", "Social Media", "Templates"]
+  },
+  {
+    "id": "23",
+    "name": "Unsplash",
+    "description": "The internet’s source for visuals. Powered by creators everywhere.",
+    "url": "https://unsplash.com",
+    "category": "Design & UI",
+    "pricing": "Free",
+    "tags": ["Stock Photos", "Images", "Photography"]
+  },
+  {
+    "id": "24",
+    "name": "Coolors",
+    "description": "The super fast color palettes generator!",
+    "url": "https://coolors.co",
+    "category": "Design & UI",
+    "pricing": "Freemium",
+    "tags": ["Colors", "Palette", "Design"]
+  },
+  {
+    "id": "25",
+    "name": "Remix Icon",
+    "description": "Open-source neutral-style system symbols elaborately crafted for designers and developers.",
+    "url": "https://remixicon.com",
+    "category": "Design & UI",
+    "pricing": "Open Source",
+    "tags": ["Icons", "SVG", "Design"]
+  },
+  {
+    "id": "26",
+    "name": "GitHub Copilot",
+    "description": "Your AI pair programmer.",
+    "url": "https://github.com/features/copilot",
+    "category": "AI Writing / Content",
+    "pricing": "Paid",
+    "tags": ["AI", "Coding", "Assistant"]
+  },
+  {
+    "id": "27",
+    "name": "Midjourney",
+    "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+    "url": "https://midjourney.com",
+    "category": "AI Writing / Content",
+    "pricing": "Paid",
+    "tags": ["AI", "Image Generation", "Art"]
+  },
+  {
+    "id": "28",
+    "name": "Claude",
+    "description": "Next-generation AI assistant built for work and trained to be safe, accurate, and secure.",
+    "url": "https://claude.ai",
+    "category": "AI Writing / Content",
+    "pricing": "Freemium",
+    "tags": ["AI", "Chatbot", "Writing"]
+  },
+  {
+    "id": "29",
+    "name": "Perplexity",
+    "description": "Unlock the power of knowledge with information discovery and sharing.",
+    "url": "https://perplexity.ai",
+    "category": "AI Writing / Content",
+    "pricing": "Freemium",
+    "tags": ["AI", "Search", "Research"]
+  },
+  {
+    "id": "30",
+    "name": "Gumroad",
+    "description": "Go from zero to one dollar. Start selling digital products in seconds.",
+    "url": "https://gumroad.com",
+    "category": "No-Code Builders",
+    "pricing": "Transaction Fee",
+    "tags": ["Ecommerce", "Digital Products", "Payments"]
+  },
+  {
+    "id": "31",
+    "name": "Lemon Squeezy",
+    "description": "Payments, tax, and subscriptions for software companies.",
+    "url": "https://lemonsqueezy.com",
+    "category": "No-Code Builders",
+    "pricing": "Transaction Fee",
+    "tags": ["Payments", "SaaS", "Subscriptions"]
+  }
+]
