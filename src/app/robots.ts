@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://solofoundertoolkit.com/sitemap.xml",
+    sitemap: "https://solo-founder-toolkit.vercel.app/sitemap.xml",
   };
 }

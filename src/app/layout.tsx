@@ -6,6 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://solo-founder-toolkit.vercel.app"),
   title: {
     default: "Solo Founder Toolkit | Free Tools for Indie Hackers",
     template: "%s | Solo Founder Toolkit",
