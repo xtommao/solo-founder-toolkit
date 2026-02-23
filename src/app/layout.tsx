@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://solofoundertoolkit.com",
+    url: "https://solo-founder-toolkit.vercel.app",
     title: "Solo Founder Toolkit | Free Tools for Indie Hackers",
     description:
       "A curated collection of the best free and low-cost tools for solo founders, indie hackers, and bootstrapped startups.",
@@ -50,6 +50,9 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
+  },
+  verification: {
+    google: "ffnBEBrzXt-Ql5k5M8Rb46bLT1zos4YfI0C2TnZxLWc",
   },
 };
 
